@@ -27,9 +27,11 @@ The data of the same simulation scene has the same prefix, followed by "_destn" 
 It is worth noting that the entrances and exits in each scene are not in the above data file, the exits and entrances corresponding to the four_large.pkl file is as follows:
 
 exits: -gneE0-1, -gneE1-1, -gneE2-2, -gneE4-3, -gneE5-3, -gneE6-1, -gneE12-1, -gneE13-1
+
 entrances: gneE0-0, gneE1-0, gneE2-0, gneE4-0, gneE5-0, gneE6-0, gneE8-0, gneE10-0, gneE12-0, gneE13-0, gneE14-0, gneE15-0
 
 the exits and entrances corresponding to the four_test1.pkl file is as follows:
 
 exits: -gneE0-1, -gneE1-1, -gneE2-2, -gneE4-3, -gneE5-3, -gneE6-1, -gneE8-3, -gneE10-2
+
 entrances: gneE0-0, gneE1-0, gneE2-0, gneE4-0, gneE5-0, gneE6-0, gneE8-0, gneE10-0
